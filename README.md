@@ -1,6 +1,6 @@
-<div style="text-align:center;">
+<p style="text-align:center;">
   <img src="https://i.imgur.com/OCgcm3O.png" alt="¡Hola! Bienvenido" style="width:50%;" />
-</div>
+</p>
 
 # Química Computacional Experimental con Python
 
