@@ -1,3 +1,6 @@
+![Bienvenido](https://i.imgur.com/OCgcm3O.png)
+
+
 # Química Computacional Experimental con Python
 
 ¡Bienvenido a nuestro repositorio experimental de química computacional con Python! En este proyecto, exploraremos diferentes técnicas y métodos de computación química utilizando Python como herramienta principal. Nuestro objetivo es aprender y experimentar con conceptos fundamentales de química computacional mientras desarrollamos nuevas habilidades en programación y ciencia de datos.
