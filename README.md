@@ -1,4 +1,4 @@
-![Bienvenido](https://i.imgur.com/OCgcm3O.png) { width=50% }
+<img src="https://i.imgur.com/OCgcm3O.png" style="width:50%;" />
 
 # Química Computacional Experimental con Python
 
